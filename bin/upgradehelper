@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'upgradehelper/cli'
+include UpgradeHelper::Cli
